@@ -1,10 +1,11 @@
 Manifest-Version: 1.0
-Built-By: kbhadragond
-Build-Jdk: 17.0.8.1
-<<<<<<< HEAD
+Built-By: psuryavanshi2
+Build-Jdk: 17.0.7
 Created-By: Maven Integration for Eclipse
 
-=======
+Built-By: kbhadragond
+Build-Jdk: 17.0.8.1
+Created-By: Maven Integration for Eclipse
+
 Build-Jdk-Spec: 17
 Created-By: Maven Integration for Eclipse
->>>>>>> b326f251fa2ac9709c8d7dfb16e34fe1201cd669
