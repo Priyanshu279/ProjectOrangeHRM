@@ -8,6 +8,7 @@ import java.util.Properties;
 
 import org.openqa.selenium.support.PageFactory;
 
+import com.pageobjects.OrangeHRMLocator;
 import com.pageobjects.OrangeHRMObj;
 import com.utils.DriverClass;
 
