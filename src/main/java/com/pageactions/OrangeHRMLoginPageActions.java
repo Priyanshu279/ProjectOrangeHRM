@@ -12,11 +12,12 @@ import com.pageobjects.OrangeHRMObj;
 import com.utils.DriverClass;
 
 public class OrangeHRMLoginPageActions {
-	OrangeHRMObj loginPageLocators = null;
+	OrangeHRMLocator loginPageLocators = null;
 	String strUserName, strPassWord;
 	
 	public OrangeHRMLoginPageActions() {
-		this.loginPageLocators = new OrangeHRMObj();
+		this.loginPageLocators = new OrangeHRMLocator();
+
 		
 		PageFactory.initElements(DriverClass.getDriver(), loginPageLocators);
 	}
